@@ -1,0 +1,9 @@
+{
+  "appId": "com.zied.pushpull",
+  "appName": "Push Pull",
+  "webDir": "www",
+  "backgroundColor": "#0B1117",
+  "android": {
+    "backgroundColor": "#0B1117"
+  }
+}
